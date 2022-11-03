@@ -1,0 +1,6 @@
+bin/
+admin/
+config/
+*.sass
+.idea/
+*.iml
